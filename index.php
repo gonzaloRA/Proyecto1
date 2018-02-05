@@ -13,7 +13,7 @@ and open the template in the editor.
         <?php
         echo "Primera linea del proyecto";
         echo "<br/>";
-        echo "Dos o tres cosas mas";
+        echo "Dos o tres cosas masadsfa";
         ?>
     </body>
 </html>
