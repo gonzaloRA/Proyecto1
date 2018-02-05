@@ -14,7 +14,7 @@ and open the template in the editor.
         echo "Primera linea del proyecto";
         echo "<br/>";
         echo "Dos o tres cosas masadsfa";
-        echo"vercion 1.0";
+        echo"vercion 2.0";
         ?>
     </body>
 </html>
